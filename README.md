@@ -1,2 +1,2 @@
-# cs50p-pset0
-Pset0 of cs50 python course.
+# cs50p psets
+Psets of cs50 python course.
